@@ -1,5 +1,5 @@
 # NCR Covid Tracker Database
-A COVID-19 Cases Tracker made using MySQL for cases within Metro Manila. A project I developed for my course CS 165, Database Systems, in UPD.
+A COVID-19 Cases Tracker made using SQL for cases within Metro Manila. A project I developed for my course CS 165, Database Systems, in UPD.
 
 As the name suggests, this application would be used to track the amount of COVID-19 cases within Metro Manila, namely, the 16 cities of Manila, Quezon City, Caloocan, Las Piñas, Makati, Malabon, Mandaluyong, Marikina, Muntinlupa, Navotas, Parañaque, Pasay, Pasig, San Juan, Taguig, and Valenzuela. Furthermore, this application would not only track the amount of COVID-19 positive individuals, but also the number of recoveries and deaths.
 
